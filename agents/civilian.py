@@ -60,3 +60,4 @@ class Civilian(Agent):
         monitoring_system.report_incident(incident, reported_by=self)
 # Fixed civilian panic state not resetting after incident resolves
 # Fixed civilian panic state not resetting after incident resolves
+# Fixed civilian panic state not resetting after incident resolves

@@ -136,3 +136,4 @@ class CriminalGang:
                 member.state = CriminalState.FLEEING
 # Fixed stale target bug when criminal is arrested mid-chase
 # Fixed stale target bug when criminal is arrested mid-chase
+# Fixed stale target bug when criminal is arrested mid-chase
