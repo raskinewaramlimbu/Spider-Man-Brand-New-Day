@@ -72,3 +72,6 @@ python -m pytest tests/ -v
   utility-only (no learning), full Q-learning, and random incident-type choice — using
   identical paired random seeds across strategies, so differences reflect the policy
   itself rather than random variation in city layout.
+
+## Status
+Project complete as of final review pass.
